@@ -1,15 +1,17 @@
 Link to unlisted YouTube video:
-https://youtu.be/7vGDonu2yIQ?si=L4dsL5si0wHJj4oa
+https://youtu.be/-S6tcPgAr4E?si=ngqvmqLkCq0i-9JP
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1KhOc9UJnFYNCIOND55ilPguqb-15hSy7WeqF2ayqYe8/edit?usp=sharing
+https://docs.google.com/presentation/d/1x_IvrUMSVcDg1qFIZIj_O_FLzCYZasPjAcAH715OyiU/edit?usp=sharing
 
 Paper title:
-A Survey on IoT Security: Application Areas, Security Threats, and Solution Architectures
+Effectiveness of Federated Learning and CNN Ensemble Architectures for Identifying Brain Tumors Using MRI Images
+
 
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/8742551
+https://link.springer.com/article/10.1007/s11063-022-11014-1
 
 Group Number:
 41
